@@ -15,6 +15,7 @@ hs_err_pid*
 out/
 .idea/
 .idea_modules/
+target/
 *.iml
 *.ipr
 *.iws
